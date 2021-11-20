@@ -15,32 +15,40 @@ No app has been developed in this project
 
 <details><summary>How to use this Project</summary>
 <p>
+    
 This project was realized by:
+    
 * Wrangling and cleaning in Jupyter Notebook.
 * Preparing data structure with SQL in MySQL Workbench
 * Link data and developing worksheets and dashboards in Tableau
+
 </p>
 </details>
 
 <details><summary>Technologies used</summary>
 <p>
+    
 The following technologies were used in this project
 * Python version 3.8.8 with additional libraries:
     * numpy
     * pandas
 * MySQL Workbench version 8.0
 * Tableau 2021.3
+    
 </p>
 </details>
 
 <details><summary>Credits</summary>
 <p>
+    
 This project would not have been possible without the data made available by <a href="https://www.uwv.nl/overuwv/english/index.aspx" target="_blank">UWV</a>.
+    
 </p>
 </details>
 
 <details><summary>License</summary>
 <p>
+    
 Creative Commons Attribution 4.0 International
 
 Attribution 4.0 International
@@ -438,12 +446,16 @@ the avoidance of doubt, this paragraph does not form part of the public
 licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
 </p>
 </details>
 
 <details><summary>Contribute to the Project</summary>
 <p>
+    
 This project was part of a study program. No contributions can be made.
+    
 </p>
 </details>
+
 <div align="center"><p>© 2022 met toewijding gemaakt door <a href="http://renejansen.in"> renejansen.in</a></p></div>
