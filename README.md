@@ -42,4 +42,4 @@ Contents here. List the License https://choosealicense.com/
 Contents here. How to Contribute to the Project (if it’s an app)
 </p>
 </details>
-<div text-align: center><p display: inline-block>© 2022 met toewijding gemaakt door <a href="http://renejansen.in"> renejansen.in</a></p></div>
+<div align="center"><p>© 2022 met toewijding gemaakt door <a href="http://renejansen.in"> renejansen.in</a></p></div>
