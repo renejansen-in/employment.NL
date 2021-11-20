@@ -1,6 +1,5 @@
-# employment.NL
-Mid bootcamp project Data Analytics 
-
+# Employment.NL
+Employment.NL is a project as part of my study program. It is based on <a href="https://data.overheid.nl/en/dataset/84e76ca2-f91b-427d-918b-6a6d8299b3d3">open data</a> made available by a Dutch administrative body, called <a href="https://www.uwv.nl/overuwv/english/index.aspx">UWV</a>. This public organization carries out employee insurance policies and provides labor market and data services on behalf of the <a href="https://www.inspectorateszw.nl/">Ministry of Social Affairs and Employment</a>.
 
 ## Description
 Describe here what your application does, why you used the technologies you used, some of the challenges you faced and features you hope to implement in the future.
