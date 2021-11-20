@@ -15,6 +15,7 @@ No app has been developed in this project
 
 <details><summary>How to use this Project</summary>
 <p>
+This project was realized by:
 * Wrangling and cleaning in Jupyter Notebook.
 * Preparing data structure with SQL in MySQL Workbench
 * Link data and developing worksheets and dashboards in Tableau
@@ -23,6 +24,7 @@ No app has been developed in this project
 
 <details><summary>Technologies used</summary>
 <p>
+The following technologies were used in this project
 * Python version 3.8.8 with additional libraries:
     * numpy
     * pandas
@@ -40,7 +42,7 @@ This project would not have been possible without the data made available by <a 
 <details><summary>License</summary>
 <p>
 Creative Commons Attribution 4.0 International
-'''
+
 Attribution 4.0 International
 
 =======================================================================
@@ -434,7 +436,6 @@ to any of its public licenses or any other arrangements,
 understandings, or agreements concerning use of licensed material. For
 the avoidance of doubt, this paragraph does not form part of the public
 licenses.
-'''
 
 Creative Commons may be contacted at creativecommons.org.
 </p>
