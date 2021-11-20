@@ -1,0 +1,18 @@
+peildatum  categorie            groepering                    records beroepen rectypen geotypen
+09-11-2021 01 - Totalen         Peildatum                      172972     2607        3        4
+09-11-2021 02 - Recordtype      ErvaringsBeroep                 40887     2320        1        4
+09-11-2021 02 - Recordtype      Vacature                       113276     2127        1        1
+09-11-2021 02 - Recordtype      WensBeroep                      18809     1801        1        4
+09-11-2021 03 - Geotype         Gemeente                        27431      921        2        1
+09-11-2021 03 - Geotype         Landelijk                        4121     2337        2        1
+09-11-2021 03 - Geotype         Postcode                       125022     2127        3        1
+09-11-2021 03 - Geotype         Provincie                       16398     1656        2        1
+09-11-2021 04 - Rec-/Geotype    Ervaringsberoep-Gemeente        18966      902        1        1
+09-11-2021 04 - Rec-/Geotype    Ervaringsberoep-Landelijk        2320     2320        1        1
+09-11-2021 04 - Rec-/Geotype    Ervaringsberoep-Postcode         9351      118        1        1
+09-11-2021 04 - Rec-/Geotype    Ervaringsberoep-Provincie       10250     1637        1        1
+09-11-2021 04 - Rec-/Geotype    Vacature-Postcode              113276     2127        1        1
+09-11-2021 04 - Rec-/Geotype    Wensberoep-Gemeente              8465      532        1        1
+09-11-2021 04 - Rec-/Geotype    Wensberoep-Landelijk             1801     1801        1        1
+09-11-2021 04 - Rec-/Geotype    Wensberoep-Postcode              2395       44        1        1
+09-11-2021 04 - Rec-/Geotype    Wensberoep-Provincie             6148     1112        1        1
